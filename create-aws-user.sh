@@ -1,4 +1,5 @@
-#!/bin/bash # AWS CLI script to create a user with input policy ARN or file
+#!/bin/bash
+# AWS CLI script to create a user with input policy ARN or file
 
 set -e
 
